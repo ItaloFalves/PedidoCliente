@@ -1,0 +1,14 @@
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\bin\Debug\net8.0\Pedido.exe
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\bin\Debug\net8.0\Pedido.deps.json
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\bin\Debug\net8.0\Pedido.runtimeconfig.json
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\bin\Debug\net8.0\Pedido.dll
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\bin\Debug\net8.0\Pedido.pdb
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\obj\Debug\net8.0\Pedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\obj\Debug\net8.0\Pedido.AssemblyInfoInputs.cache
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\obj\Debug\net8.0\Pedido.AssemblyInfo.cs
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\obj\Debug\net8.0\Pedido.csproj.CoreCompileInputs.cache
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\obj\Debug\net8.0\Pedido.dll
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\obj\Debug\net8.0\refint\Pedido.dll
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\obj\Debug\net8.0\Pedido.pdb
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\obj\Debug\net8.0\Pedido.genruntimeconfig.cache
+C:\temp\projetos\C# - Curso\PedidoCliente\Pedido\Pedido\obj\Debug\net8.0\ref\Pedido.dll
